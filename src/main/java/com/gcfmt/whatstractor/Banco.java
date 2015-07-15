@@ -1,9 +1,9 @@
 package com.gcfmt.whatstractor;
 
-import com.gcfmt.whatstractor.modelo.Chat;
-import com.gcfmt.whatstractor.modelo.GroupParticipant;
-import com.gcfmt.whatstractor.modelo.Message;
-import com.gcfmt.whatstractor.modelo.WaContact;
+import com.gcfmt.whatstractor.data.Chat;
+import com.gcfmt.whatstractor.data.GroupParticipant;
+import com.gcfmt.whatstractor.data.Message;
+import com.gcfmt.whatstractor.data.WaContact;
 import static java.util.Arrays.stream;
 import java.util.Date;
 import java.util.LinkedList;

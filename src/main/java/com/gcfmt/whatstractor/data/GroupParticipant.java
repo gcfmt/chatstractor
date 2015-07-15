@@ -1,4 +1,4 @@
-package com.gcfmt.whatstractor.modelo;
+package com.gcfmt.whatstractor.data;
 
 public class GroupParticipant {
     public int Id;
