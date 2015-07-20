@@ -1,4 +1,4 @@
-package com.gcfmt.whatstractor.data;
+package com.gcfmt.chatstractor.data;
 
 public class GroupParticipant {
     public int Id;
