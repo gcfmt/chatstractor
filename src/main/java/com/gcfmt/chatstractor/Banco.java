@@ -8,6 +8,7 @@ import static java.util.Arrays.stream;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
+import org.sqlite.SQLiteConnection;
 
 public class Banco {
     static SQLiteConnection ConexaoChatStorage;
